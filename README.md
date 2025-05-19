@@ -9,9 +9,8 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=lucaserod&show_icons=true" />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaserod&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 </picture>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaserod&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🌱 Estudando python e linux
