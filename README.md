@@ -13,4 +13,5 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Lucas-linux" height="30" width="40" src="https://static-00.iconduck.com/assets.00/linux-icon-1719x2048-gi8asnz4.png">
 </div>
