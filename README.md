@@ -10,7 +10,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=lucaserod&show_icons=true" />
 </picture>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaserod&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaserod)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🌱 Estudando python e linux
