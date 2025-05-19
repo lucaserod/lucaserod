@@ -9,6 +9,7 @@
 <hr>
 <br>
 - 🌱 Estudando python e linux
+<br>
 - 😄 Pronouns: ele/dele
 <br>
 <div style="display: inline_block"><br>
